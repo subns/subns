@@ -1,0 +1,6 @@
+apiVersion: hierarchy.subns.org/v1alpha1
+kind: Subnamespace
+metadata:
+  name: subnamespace-sample
+spec:
+  # TODO(user): Add fields here
